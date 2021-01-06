@@ -4,7 +4,7 @@
   "description": "![repoLanguage](https://img.shields.io/github/languages/top/michaelzunigaa/READMEGenerator) ## Descripton Its an app that helps make a quick detailed readme",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "inquirer": "^7.1.0"
   },
   "devDependencies": {},
